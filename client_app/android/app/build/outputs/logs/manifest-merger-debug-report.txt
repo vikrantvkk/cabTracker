@@ -1,0 +1,90 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:2:1-33:12
+	xmlns:android
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from G:\LocateMyCab\app\src\main\AndroidManifest.xml
+		INJECTED from G:\LocateMyCab\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\LocateMyCab\app\src\main\AndroidManifest.xml
+		INJECTED from G:\LocateMyCab\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\LocateMyCab\app\src\main\AndroidManifest.xml
+		INJECTED from G:\LocateMyCab\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:10:5-31:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:15:9-40
+activity#application.locatemycab.FirstScreen
+ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:16:19-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:20:27-74
+activity#application.locatemycab.LoginActivity
+ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:23:9-30:20
+	android:label
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:25:13-57
+	android:parentActivityName
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:26:13-54
+	android:name
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:24:13-42
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:27:13-29:71
+	android:name
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:28:17-63
+	android:value
+		ADDED from G:\LocateMyCab\app\src\main\AndroidManifest.xml:29:17-68
+uses-sdk
+INJECTED from G:\LocateMyCab\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\LocateMyCab\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from G:\LocateMyCab\app\src\main\AndroidManifest.xml
+		INJECTED from G:\LocateMyCab\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\LocateMyCab\app\src\main\AndroidManifest.xml
+		INJECTED from G:\LocateMyCab\app\src\main\AndroidManifest.xml
